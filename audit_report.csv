@@ -1,0 +1,8 @@
+Scan Date,Repository,Branch Protected,Require PR,Min Reviews,Has CI/CD,Status
+2026-09-18 22:12:26,Actividad-2---Progra-Web,No,No,0,No,NO CONFORME
+2026-09-18 22:12:26,actividad-repositorio,No,No,0,No,NO CONFORME
+2026-09-18 22:12:26,bank-auth-service,Sí,Sí,1,Sí,CONFORME
+2026-09-18 22:12:26,bank-transfer-api,No,No,0,No,NO CONFORME
+2026-09-18 22:12:26,containerized-web-platform,No,No,0,Sí,NO CONFORME
+2026-09-18 22:12:26,engineering-notes,No,No,0,No,NO CONFORME
+2026-09-18 22:12:26,taller-git-2026-2,Sí,Sí,1,Sí,CONFORME
